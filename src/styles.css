@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* < Angular Tutorial */
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background: #FEFEFE;
+}
+
+h1 {
+    /* color: #466F82; */
+    font-size: 2.5em;
+}
+
+/* Angular Tutorial > */
