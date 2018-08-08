@@ -1,0 +1,45 @@
+h2 {
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+}
+
+body {
+  margin: 2em;
+}
+
+body, input[text], button {
+  color: crimson;
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+button.clear {
+  font-family: Arial,Arial, Helvetica, sans-serif;
+  background-color: #EEE;
+  color: #888;
+  border: none;
+  padding: 0.3em 0.6em;
+  margin: 0.75em;
+  border-radius: 0.25em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #CFD8DC;
+}
+
+button:disabled {
+  background-color: #EEE;
+  color: #AAA;
+  cursor: auto;
+}
+
+.message {
+  margin: 0.25em 1em;
+}
+
+.ghost {
+  padding: 0;
+  margin: 0;
+  max-height: 0;
+}
